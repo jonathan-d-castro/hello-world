@@ -3,4 +3,6 @@
 
 Hello
 
-Jonathan here, just trying to make a new  repository, get a feel for what is really going on right now.
+This will be a repository for the robotics team in SEA.
+
+~ Jonathan
